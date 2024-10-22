@@ -1,6 +1,6 @@
 [Project]
-FileName=FuncaoRecursiva.dev
-Name=FuncaoRecursiva
+FileName=Ordenacao5numeros.dev
+Name=Ordenacao5numeros
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=funcaoRecursiva.cpp
+FileName=ordenacao5Numeros.cpp
 CompileCpp=1
 Folder=
 Compile=1

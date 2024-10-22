@@ -1,6 +1,6 @@
 [Project]
-FileName=FuncaoRecursiva.dev
-Name=FuncaoRecursiva
+FileName=PassagemPorRerencia.dev
+Name=PassagemPorRerencia
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=funcaoRecursiva.cpp
+FileName=PassagemPorReferencia.cpp
 CompileCpp=1
 Folder=
 Compile=1
